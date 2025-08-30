@@ -1,6 +1,6 @@
 # Projetos Exemplo com Git
 
-Bem-vindo ap repositório! Este é um projeto de exemplo para demonstrar o uso do Git e GitHub.
+Bem-vindo ao repositório! Este é um projeto de exemplo para demonstrar o uso do Git e GitHub.
 
 ## Tecnologias Usadas
 - Git
