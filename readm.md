@@ -9,3 +9,8 @@ Bem-vindo ao repositório! Este é um projeto de exemplo para demonstrar o uso d
 
 ### Estrutura do Projeto
 
+### Adicionando Conteudo Remotamente
+
+---
+
+## Como trabalhar com o Git
